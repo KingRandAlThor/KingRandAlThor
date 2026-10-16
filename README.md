@@ -17,7 +17,8 @@
 | 🎯 [**mastermind-solver**](https://github.com/KingRandAlThor/mastermind-solver) | Solveur Mastermind à 10 couleurs : 5,8 essais en moyenne grâce à une stratégie minimax, avec sauvegarde de progression et tests | Python |
 | 🔨 [**auction-eleven**](https://github.com/KingRandAlThor/auction-eleven) | Plateforme d'enchères en ligne : comptes utilisateurs, enchères, système de jetons | Flask, SQLite, Bootstrap |
 | 📅 [**kvk-slot-booking**](https://github.com/KingRandAlThor/kvk-slot-booking) | Application web de réservation de créneaux, prête à déployer | Flask, SQLite |
-
+| 💸 [**Moula**](https://github.com/KingRandAlThor/Moula) | Bot de suivi des cotes de football : alertes Telegram, backtests sur 20 000 matchs, hébergé sur GitHub Actions | Python, scikit-learn |
+| 🐎 [**Chevaux**](https://github.com/KingRandAlThor/Chevaux) | Analyse de courses hippiques (PMU), même approche que Moula | Python |
 ## 🛠️ Compétences
 
 - **Programmation** : Python, algorithmique (filtrage, minimax), tests automatiques
