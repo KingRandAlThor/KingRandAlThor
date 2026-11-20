@@ -35,7 +35,7 @@ Un solveur de Mastermind en Python qui filtre les possibilités et utilise une s
 
 `Python` · `Algorithmique` · `Tests`
 
-### ⚽ [Moula](https://github.com/KingRandAlThor/Moula)
+### ⚽ [Football Odds Monitor](https://github.com/KingRandAlThor/football-odds-monitor)
 
 Un bot de suivi de données et de cotes de football, alimenté par des API existantes et capable d'envoyer des alertes Telegram.
 
